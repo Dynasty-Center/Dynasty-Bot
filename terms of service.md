@@ -1,8 +1,8 @@
-# [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot) Terms of Service
+# [Nezuko Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot) Terms of Service
 
 Last Updated: 06/09/2023
 
-Welcome to [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot)! These Terms of Service (the "Terms") govern your use of [Your Music Bot Name] (the "Bot"), a music bot for Discord. By using the Bot, you agree to comply with these Terms. If you do not agree with these Terms, please do not use the Bot.
+Welcome to [Nezuko Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot)! These Terms of Service (the "Terms") govern your use of [Your Music Bot Name] (the "Bot"), a music bot for Discord. By using the Bot, you agree to comply with these Terms. If you do not agree with these Terms, please do not use the Bot.
 
 ## 1. Bot Usage
 
