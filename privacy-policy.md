@@ -1,10 +1,10 @@
-# Sanhaji Music Bot Privacy Policy
+# Nezuko Music bot Privacy Policy
 
 Last Updated: 06/09/2023
 
 ## 1. Introduction
 
-Welcome to [Sanhaji music bot](https://discord.gg/5sWatSkSCY). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the Bot. By using the Bot, you agree to the practices described in this Privacy Policy.
+Welcome to [Nezuko Music bot](https://discord.gg/5sWatSkSCY). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the Bot. By using the Bot, you agree to the practices described in this Privacy Policy.
 
 ## 2. Information We Collect
 
