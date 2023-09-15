@@ -1,49 +1,37 @@
-# Sanhaji Music Bot Privacy Policy
+# Privacy Policy for [Dynasty](https://discord.com/api/oauth2/authorize?client_id=1140442519918870568&permissions=8&scope=bot)
 
-Last Updated: 06/09/2023
+This Privacy Policy describes how [Your Name] ("we", "our", or "us") collects, uses, and shares personal information when you use our Discord bot Dynasty (the "Bot").
 
-## 1. Introduction
+## Information We Collect
 
-Welcome to [Sanhaji music bot](https://discord.gg/5sWatSkSCY). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the Bot. By using the Bot, you agree to the practices described in this Privacy Policy.
+### Discord User ID
+- When you interact with the Bot, we may collect your Discord User ID to provide you with the requested services.
 
-## 2. Information We Collect
+### Usage Data
+- We may collect information on how you use the Bot, including commands used, timestamps, and other usage patterns.
 
-2.1. **User-Provided Information:** When you use the Bot, you may provide us with information, such as your Discord username, server information, and commands you use with the Bot.
+## How We Use Your Information
 
-2.2. **Automatically Collected Information:** We may collect certain information automatically when you use the Bot, including your IP address, device information, and usage data.
+We use the collected information for the following purposes:
 
-## 3. How We Use Your Information
+- To provide and maintain the Bot's functionality.
+- To improve and optimize the Bot's performance.
+- To monitor usage and analyze trends.
 
-3.1. **To Provide Services:** We use your information to operate and maintain the Bot and provide you with the requested services.
+## Sharing Your Information
 
-3.2. **To Improve Services:** We may use your information to analyze and improve the functionality and performance of the Bot.
+We do not share or disclose your personal information with third parties, except as described in this Privacy Policy or as required by law.
 
-## 4. Information Sharing
+## Security
 
-4.1. **Third-Party Services:** We may share your information with third-party services that help us operate and maintain the Bot.
+The security of your personal information is important to us, but please be aware that no method of transmission over the internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-4.2. **Legal Requirements:** We may disclose your information if required by law or if we believe that such action is necessary to comply with a legal obligation or protect our rights, interests, or property.
+## Changes to This Privacy Policy
 
-## 5. Data Security
+We may update our Privacy Policy from time to time. You are advised to review this Privacy Policy periodically for any changes.
 
-5.1. **Security Measures:** We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+## Contact Us
 
-## 6. Your Choices
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Server Support](https://discord.gg/5sWatSkSCY).
 
-6.1. **Access and Correction:** You can access and update your information by contacting us at [Discord Server Support](https://discord.gg/5sWatSkSCY).
-
-## 7. Children's Privacy
-
-7.1. **Age Restriction:** The Bot is not intended for use by individuals under the age of 13. We do not knowingly collect or solicit personal information from individuals under 13.
-
-## 8. Changes to this Privacy Policy
-
-8.1. **Changes:** We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website.
-
-## 9. Contact Information
-
-9.1. **Contact:** If you have any questions or concerns about this Privacy Policy, please contact us at [Discord Server Support](https://discord.gg/5sWatSkSCY).
-
----
-
-**Dynasty Team**
+**Effective Date: 15/09/2023**
