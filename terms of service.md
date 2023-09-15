@@ -1,61 +1,57 @@
-# [Sanhaji Bot](https://discord.com/api/oauth2/authorize?client_id=1150540105069633676&permissions=8&scope=bot) Terms of Service
+# Discord System Bot Terms of Service
 
-Last Updated: 06/09/2023
+These terms of service ("Terms") govern your use of the Discord System Bot ("Bot"). By using the Bot, you agree to these Terms. If you do not agree with these Terms, you may not use the Bot.
 
-Welcome to [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1150540105069633676&permissions=8&scope=bot)! These Terms of Service (the "Terms") govern your use of [Your Music Bot Name] (the "Bot"), a music bot for Discord. By using the Bot, you agree to comply with these Terms. If you do not agree with these Terms, please do not use the Bot.
+## 1. License
 
-## 1. Bot Usage
+### 1.1. License Grant
+The Bot is licensed, not sold, to you by [Your Name] ("Owner"). Owner grants you a personal, non-exclusive, non-transferable, limited license to use the Bot solely for your own personal or internal business purposes.
 
-1.1. **Age Restriction:** You must be at least 13 years old to use the Bot. If you are under 13 years old, you are not permitted to use the Bot.
+### 1.2. Restrictions
+You may not sublicense, lease, sell, or otherwise transfer the Bot to any third party. You may not modify, reverse engineer, decompile, or disassemble the Bot.
 
-1.2. **Compliance with Discord's Terms:** You must also comply with Discord's Terms of Service and Community Guidelines when using the Bot. In case of any conflict between these Terms and Discord's Terms, Discord's Terms shall prevail.
+### 1.3. Ownership
+All title, ownership rights, and intellectual property rights in and to the Bot are owned by Owner and/or its licensors. You agree not to remove, alter, or obscure any copyright, trademark, service mark, or other proprietary rights notices incorporated in or accompanying the Bot.
 
-## 2. Bot Features
+## 2. Bot Commands
 
-2.1. **Functionality:** [Your Music Bot Name] is designed to [briefly describe the primary functionality of the Bot, e.g., play music in Discord servers]. We reserve the right to modify or discontinue any features of the Bot at any time without notice.
+### 2.1 Fun Commands
+Fun commands provided by the Bot are for entertainment purposes only. Owner is not responsible for any consequences resulting from the use of these commands.
 
-2.2. **Availability:** We do not guarantee continuous or uninterrupted access to the Bot, and we may temporarily or permanently suspend access to the Bot without notice for maintenance, upgrades, or other reasons.
+### 2.2 Moderation Commands
+Moderation commands are designed to help maintain a healthy and respectful community. Owner is not responsible for any misuse or abuse of these commands.
 
-## 3. User Conduct
+### 2.3 Economy Commands
+Economy commands involve virtual currency or items. Any virtual economy created by the Bot is fictional and has no real-world value.
 
-3.1. **Prohibited Activities:** When using the Bot, you agree not to:
-   - Violate any applicable laws or regulations.
-   - Use the Bot for any illegal or unauthorized purpose.
-   - Post or share content that is offensive, abusive, or violates the rights of others.
-   - Harass, threaten, or impersonate other users.
+### 2.4 Voice Commands
+Voice commands relate to functionalities involving voice channels. Owner is not responsible for any disruptions or issues caused by the use of these commands.
 
-## 4. Intellectual Property
+### 2.5 Info Commands
+Info commands provide information and data. Owner does not guarantee the accuracy or reliability of the information provided.
 
-4.1. **Ownership:** [Your Music Bot Name] and its related content, including but not limited to logos, text, and graphics, are the intellectual property of [Your Company Name] and are protected by copyright and other intellectual property laws.
+### 2.6 Jail Commands
+Jail commands are for role-playing or community management purposes. Owner is not responsible for any disputes or disagreements arising from the use of these commands.
 
-4.2. **License:** We grant you a limited, non-exclusive, non-transferable license to use the Bot in accordance with these Terms.
+### 2.7 Verification Commands
+Verification commands are designed to enhance security and user verification processes. Owner is not liable for any breaches or security issues.
 
-## 5. Privacy
+## 3. Disclaimer of Warranty
 
-5.1. **Data Collection:** We may collect and store certain information about your use of the Bot, as described in our Privacy Policy.
+The Bot is provided "as is" without warranty of any kind. Owner does not guarantee that the Bot will be error-free or uninterrupted.
 
-## 6. Termination
+## 4. Limitation of Liability
 
-6.1. **Termination:** We reserve the right to terminate or suspend your access to the Bot at any time and for any reason without notice.
+In no event shall Owner be liable for any indirect, incidental, special, exemplary, or consequential damages arising out of or in connection with the Bot.
 
-## 7. Disclaimer of Warranties
+## 5. Termination
 
-7.1. **No Warranty:** The Bot is provided "as is" without any warranties of any kind, express or implied.
+Owner may terminate your access to the Bot at any time without notice or liability.
 
-## 8. Limitation of Liability
+## 6. Changes to Terms
 
-8.1. **Limitation of Liability:** [Dynasty Dev Center](https://discord.gg/5sWatSkSCY) shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from your use of the Bot.
+Owner reserves the right to modify these Terms at any time. You are responsible for regularly reviewing these Terms.
 
-## 9. Changes to Terms
+By using the Bot, you agree to abide by these Terms. If you have any questions or concerns, please contact [Server Support](https://discord.gg/5sWatSkSCY).
 
-9.1. **Changes:** We reserve the right to update and change these Terms at any time. It is your responsibility to review these Terms periodically for changes.
-
-## 10. Contact Information
-
-10.1. **Contact:** For any questions or concerns about these Terms, please contact us at [Server Support](https://discord.gg/5sWatSkSCY).
-
-By using [Your Music Bot Name], you agree to abide by these Terms of Service. Thank you for using our Bot!
-
----
-
-**Dynasty Dev Center**
+**Effective Date: 15/09/2023**
