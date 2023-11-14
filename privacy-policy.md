@@ -1,6 +1,6 @@
 # Privacy Policy for [Dynasty](https://discord.com/api/oauth2/authorize?client_id=1140442519918870568&permissions=8&scope=bot)
 
-This Privacy Policy describes how [Your Name] ("we", "our", or "us") collects, uses, and shares personal information when you use our Discord bot Dynasty (the "Bot").
+This Privacy Policy describes how Dynasty we collects, uses, and shares personal information when you use our Discord bot Dynasty.
 
 ## Information We Collect
 
